@@ -1,0 +1,44 @@
+
+.top{
+    background-color: red;
+    height: 50px;
+    width:100%;
+    text-align: center;
+    font-family: cursive;
+    color: #ffffff;
+    display: flex;
+    align-items: center;
+    border: 5px solid green;
+
+    
+}
+body{
+    margin:0;
+    font-style: Arial, Sans-Serif;
+}
+
+.menu {
+    color: currentcolor;
+    font-size: 18px;
+    margin-left: 5%;
+}
+.franchising {
+    color: currentcolor;
+    font-size: 18px;
+    margin-left: 5%;
+}
+.tim_catering {
+    color: currentcolor;
+    font-size: 18px;
+    margin-left: 5%;
+}
+.Tim_Hortins {
+    color: currentcolor;
+    font-size: 21px;
+    margin-left: 50%;
+    font-family: cursive;
+    font-style: italic;
+    font-weight: bolder;
+
+}
+
